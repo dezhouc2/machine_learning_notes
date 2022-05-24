@@ -15,7 +15,7 @@
         - assumption of z-test:
           - data points are independent
           - sample size > 30
-          - normal distribution with mean of zero and variable 1
+          - normal distribution with mean of zero and variance 1
 
   - non-parametric test: varaibles measured on the ordinal(按照顺序) scale
 
