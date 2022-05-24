@@ -1,4 +1,4 @@
-```html
+``
 
 - two hypothesis testing 
   - parametric test: based on the fact that variables are measured on an interval scale
@@ -23,4 +23,4 @@
 
 
 
-```
+``
